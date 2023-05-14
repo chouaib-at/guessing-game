@@ -167,4 +167,4 @@ while (guessedNumber != a) {
 console.log('Congratulations, you guessed the right number');
 
 
-
+}
