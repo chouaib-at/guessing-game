@@ -2,3 +2,6 @@ The Guessing Game app is all about the fun of guessing a number between 1 and 10
 
 Check demo :https://marvelous-toffee-781b2f.netlify.app/
 
+
+
+![Screenshot 2023-12-30 174525 (1)](https://github.com/chouaib-at/guessing-game/assets/128982286/0caa8c25-ce9a-45bb-80f1-636926656ce7)
